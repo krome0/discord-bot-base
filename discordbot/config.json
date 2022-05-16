@@ -1,0 +1,7 @@
+{
+  "token":"<your bot token>",
+  "prefix":"<your bot prefix>",
+  "presence":"<your bot presence>",
+  "description":"<your bot description>",
+  "cogs":["cogs.events", "<cog to load>"]
+}
