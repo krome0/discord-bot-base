@@ -1,0 +1,9 @@
+# Discord Bot Base
+Discord Bot Base using discord.py
+
+## Requirements
+```
+python >= 3.8
+
+discord.py == latest
+```
